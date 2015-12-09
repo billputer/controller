@@ -33,6 +33,7 @@ DefaultMap="MDErgo1-Bill-0 lcdFuncMap"
 #       PartialMaps[3]="layer3"
 PartialMaps[1]="MDErgo1-Bill-1 lcdFuncMap"
 PartialMaps[2]="MDErgo1-Bill-2 lcdFuncMap"
+PartialMaps[3]="MDErgo1-Bill-3 lcdFuncMap"
 
 
 
